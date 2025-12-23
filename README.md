@@ -106,16 +106,23 @@ Parameters:
 ### 0.5
 - Initial public release
 
+## History
+
+This plugin was created at the ORCID Outreach meeting and Codefest held at the University of Illinois at Chicago in May 2014. Andy Mabbett proposed the idea for a WordPress ORCID plugin, and Roy Boverhof (sponsored by Elsevier) implemented it - his first WordPress plugin. The team placed second in the hackathon competition.
+
+A year earlier, Roy had won the ORCID/Dryad Codefest in Oxford (May 2013) for building orcidLIVE! together with Ram Baskaravelu and Mike Taylor. The application visualizes on a world map where ORCIDs are being created and edited in real-time. As a prize, Roy won a trip to CERN to participate in the ODIN "Big Bang" 1st year conference and codesprint.
+
 ## License
 
 This plugin is licensed under the GPL v2 or later.
 
 ## Credits
 
+- Concept: Andy Mabbett
 - Original author: Roy Boverhof (Elsevier)
 - Contributors: Casey A. Ydenberg, Philip John
 
 ## Links
 
 - [ORCID](https://orcid.org/)
-- [Plugin Repository](https://github.com/latinvm/wordpress-orcid)
+- [Andy Mabbett](https://pigsonthewing.org.uk/orcid-plugin-for-wordpress/)
